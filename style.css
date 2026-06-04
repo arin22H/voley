@@ -1,0 +1,50 @@
+h1 {
+    color: #422412;
+    font-size: 50px;
+    text-align: center;
+}
+
+img {
+    height: 400px;
+    width: 600px;
+    margin: 30px;
+    border-radius: 10px;
+
+}
+
+p {
+    text-align: center;
+    font-size: small;
+    margin: 20px 0;
+}
+
+h2 {
+    text-align: center;
+    font-size: 60px;
+    margin-bottom: 30px;
+}
+
+ul {
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    background: fixed;
+    margin: 15px 0;
+    padding: 15px;
+    border-left: 5px solid;
+    border-radius: 6px;
+}
+
+body {
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    background-color: rgb(218, 226, 204);
+    margin: 0;
+    padding: 20px;
+}
